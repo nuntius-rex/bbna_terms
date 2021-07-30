@@ -1,0 +1,38 @@
+definitions=[
+{
+  "brand": "BSP",
+  terms:{
+    "cost": "BSP1",
+    "model": "BSP2",
+    "order": "BSP3",
+    "phase": "BSP4",
+    "price": "BSP5",
+    "project": "BSP6",
+    "quote": "BSP7"
+  }
+},
+{
+  "brand": "OMNI",
+  terms:{
+    "cost": "OMNI1",
+    "model": "OMNI2",
+    "order": "OMNI3",
+    "phase": "OMNI4",
+    "price": "OMNI5",
+    "project": "OMNI6",
+    "quote": "OMNI7"
+  }
+},
+{
+  "brand": "Advantage",
+  terms:{
+    "cost": "Advantage1",
+    "model": "Advantage2",
+    "order": "Advantage3",
+    "phase": "Advantage4",
+    "price": "Advantage5",
+    "project": "Advantage6",
+    "quote": "Advantage7"
+  }
+}
+];
