@@ -80,32 +80,32 @@ apmo_terms=[
     "definition": "Advantage cost def"
   },
   {
-    "brand":"BSP",
+    "brand":"Advantage",
     "term":"model",
     "definition": "Advantage model def"
   },
   {
-    "brand":"BSP",
+    "brand":"Advantage",
     "term":"order",
     "definition": "Advantage order def"
   },
   {
-    "brand":"BSP",
+    "brand":"Advantage",
     "term":"phase",
     "definition": "Advantage phase def"
   },
   {
-    "brand":"BSP",
+    "brand":"Advantage",
     "term":"price",
     "definition": "Advantage price def"
   },
   {
-    "brand":"BSP",
+    "brand":"Advantage",
     "term":"project",
     "definition": "Advantage project def"
   },
   {
-    "brand":"BSP",
+    "brand":"Advantage",
     "term":"quote",
     "definition": "Advantage quote def"
   },
