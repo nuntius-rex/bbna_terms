@@ -1,32 +1,113 @@
 apmo_terms=[
-{
-  "brand": "BSP",
-  "cost": "BSP1",
-  "model": "BSP2",
-  "order": "BSP3",
-  "phase": "BSP4",
-  "price": "BSP5",
-  "project": "BSP6",
-  "quote": "BSP7"
-},
-{
-  "brand": "OMNI",
-  "cost": "OMNI1",
-  "model": "OMNI2",
-  "order": "OMNI3",
-  "phase": "OMNI4",
-  "price": "OMNI5",
-  "project": "OMNI6",
-  "quote": "OMNI7"
-},
-{
-  "brand": "Advantage",
-  "cost": "Advantage1",
-  "model": "Advantage2",
-  "order": "Advantage3",
-  "phase": "Advantage4",
-  "price": "Advantage5",
-  "project": "Advantage6",
-  "quote": "Advantage7"
-}
+  {
+    "brand":"BSP",
+    "term":"cost",
+    "def": "BSP cost def"
+  },
+  {
+    "brand":"BSP",
+    "term":"model",
+    "def": "BSP model def"
+  },
+  {
+    "brand":"BSP",
+    "term":"order",
+    "def": "BSP order def"
+  },
+  {
+    "brand":"BSP",
+    "term":"phase",
+    "def": "BSP phase def"
+  },
+  {
+    "brand":"BSP",
+    "term":"price",
+    "def": "BSP price def"
+  },
+  {
+    "brand":"BSP",
+    "term":"project",
+    "def": "BSP project def"
+  },
+  {
+    "brand":"BSP",
+    "term":"quote",
+    "def": "BSP quote def"
+  },
+
+
+
+  {
+    "brand":"OMNI",
+    "term":"cost",
+    "def": "OMNI cost def"
+  },
+  {
+    "brand":"OMNI",
+    "term":"model",
+    "def": "OMNI model def"
+  },
+  {
+    "brand":"OMNI",
+    "term":"order",
+    "def": "OMNI order def"
+  },
+  {
+    "brand":"OMNI",
+    "term":"phase",
+    "def": "OMNI phase def"
+  },
+  {
+    "brand":"OMNI",
+    "term":"price",
+    "def": "OMNI price def"
+  },
+  {
+    "brand":"OMNI",
+    "term":"project",
+    "def": "OMNI project def"
+  },
+  {
+    "brand":"OMNI",
+    "term":"quote",
+    "def": "OMNI quote def"
+  },
+
+
+  {
+    "brand":"Advantage",
+    "term":"cost",
+    "def": "Advantage cost def"
+  },
+  {
+    "brand":"BSP",
+    "term":"model",
+    "def": "Advantage model def"
+  },
+  {
+    "brand":"BSP",
+    "term":"order",
+    "def": "Advantage order def"
+  },
+  {
+    "brand":"BSP",
+    "term":"phase",
+    "def": "Advantage phase def"
+  },
+  {
+    "brand":"BSP",
+    "term":"price",
+    "def": "Advantage price def"
+  },
+  {
+    "brand":"BSP",
+    "term":"project",
+    "def": "Advantage project def"
+  },
+  {
+    "brand":"BSP",
+    "term":"quote",
+    "def": "Advantage quote def"
+  },
+
 ];
